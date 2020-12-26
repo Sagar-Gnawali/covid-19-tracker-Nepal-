@@ -1,5 +1,5 @@
 # covid-19 tracker Nepal only
-This is the small React project in which i have used React class and function components. And also used fetch api , some and css.
+This is the small React project in which i have used React class and function components. And I also used fetch api and css.
 This project shows covid-19 cases for Nepal only.
 
 # Getting Started with Create React App
